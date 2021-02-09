@@ -3,7 +3,7 @@ Steps to deploy Product Search Application :
 1. Make sure you have docker and docker-compose installed on your system.
 
 2. Clone the code from github
-$ git clone 
+$ git clone https://github.com/amrassiwala/psearch.git
 
 3. From the psearch folder, start docker
 
