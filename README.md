@@ -35,3 +35,8 @@ Once this is done, you can start searching the products in the search box and tr
 ```
 docker-compose down
 ```
+8. To re-compile after making any changes in the code, you will need JDK and Maven installed on your local machine, 
+Re-compilation can be done using the following command :
+```
+mvn war:war
+```
